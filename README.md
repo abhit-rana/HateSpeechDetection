@@ -11,7 +11,11 @@ Best Experimental Results with:
 
 Language Translation: googletrans.Translate
 
-Word Embedding Model: bert-base-nli-mean-tokens
+Word Embeddings:
+
+Transformer Model: bert-base-nli-mean-tokens
+
+Pooling Layer and Dense Layer added after Transformer Model
 
 ML Model: SVM
 
