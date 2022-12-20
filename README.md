@@ -4,12 +4,15 @@ Problem: Given a tweet, determine whether the tweet is offensive/Hateful. It is 
 Dataset Used: It consist of Hinglish tweets used in 2021's HASOC Subtask A.
 
 Model Architecture:
+![redefined - Page 2 (2)](https://user-images.githubusercontent.com/88608893/208653975-193542c8-1a80-4c9b-b019-fd0acce146ed.png)
 
-![redefined - Page 2](https://user-images.githubusercontent.com/88608893/208638782-ed4abd02-e322-46b5-a113-342c2573b91d.png)
 
 Best Experimental Results with:
-Language Translation: Google Translate API
-Word Embedding Model: bert-base
+
+Language Translation: googletrans.Translate
+
+Word Embedding Model: bert-base-nli-mean-tokens
+
 ML Model: SVM
 
 More detailed information about project(Related work, Methodology, Experimental Results) could be found in the Report.
