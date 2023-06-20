@@ -1,6 +1,7 @@
 # HateSpeechDetection
 
 Problem: Given a tweet, determine whether the tweet is offensive/Hateful. It is a binary classification task
+
 Dataset Used: It consist of Hinglish tweets used in 2021's HASOC Subtask A.
 
 Model Architecture:
